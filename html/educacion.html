@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="widht=device-widht, user-scalable=no">
+    <meta name="author" content="Fernando Chau de la Cruz">
+    <meta name="keywords:" content="html, etiquetas, atributos">
+    <meta name="description" content="">
+    <title>Educación</title>
+  </head>
+  <body>
+    <svg width="640" height="100" name="logo-fchau">
+     <g>
+      <title>Layer 1</title>
+      <text fill="#000000" stroke="#000000" stroke-width="0" x="86" y="69" id="svg_1" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve">Fernando Chau</text>
+      <rect stroke="#000000" id="svg_3" height="20" width="155" y="77" x="10" stroke-width="5" fill="#007f00"/>
+      <ellipse ry="17" rx="75" id="svg_6" cy="29" cx="86" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#db0f0f" fill="#d6d615"/>
+     </g>
+    </svg>
+
+    <h1>Hoja de Vida</h1>
+      <h2>Datos Personales</h2>
+        <h3><strong>Nombres:</strong> Fernando Martín</h3>
+        <h3><strong>Apellidos:</strong> Chau de la Cruz</h3>
+        <h3><strong>Edad:</strong> 28</h3>
+        <h3><strong>Fecha Nacimiento:</strong> 20 de Mayo de 1989</h3>
+        <h3><strong>Nacionalidad:</strong> Peruana</h3>
+        <ul>
+          <li><a href="../index.html">Inicio</a></li>
+          <li><a href="educacion.html">Educación</a></li>
+          <li><a href="experiencia.html">Experiencia</a></li>
+        </ul>
+      <h2>Educación</h2>
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Año</th>
+            <th>Institución</th>
+            <th>Lugar</th>
+            <th>¿Culminó?</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2007</td>
+            <td>Universidad Nacional de Ingerniería</td>
+            <td>Lima</td>
+            <td>SI</td>
+          </tr>
+          <tr>
+            <td>2015</td>
+            <td>Universidad ESAN</td>
+            <td>Lima</td>
+            <td>SI</td>
+          </tr>
+        </tbody>
+      </table>
+<br>
+      <form autocomplete="on" name="formulario-educacion">
+        <h2>Agregar Estudios</h2>
+        <p>
+          <label for="ano"><strong>Año: </strong></label>
+          <select id="ano">
+            <option>2001</option>
+            <option>2002</option>
+            <option>2003</option>
+            <option>2004</option>
+            <option>2005</option>
+            <option>2006</option>
+            <option>2007</option>
+            <option>2008</option>
+            <option>2009</option>
+            <option>2010</option>
+            <option>2011</option>
+            <option>2012</option>
+            <option>2013</option>
+            <option>2014</option>
+            <option>2015</option>
+            <option>2016</option>
+            <option>2017</option>
+          </select>
+        </p>
+        <p>
+          <label for="institucion"><strong>Institución: </strong></label>
+          <input type="text" name="institucion" id='institucion' required>
+        </p>
+        <p>
+          <label for="lugar"><strong>Lugar: </strong></label>
+          <textarea name="lugar" rows="8" cols="80" id="lugar"></textarea>
+        </p>
+        <p>
+          <label for="culmino"><strong>¿Culminó? </strong></label>
+          <input type="radio" name="culmino" id='culmino'> Si
+          <input type="radio" name="culmino" id='culmino'> No
+        </p>
+        <p>
+          <input type="submit" name="culmino" value='Enviar'>
+        </p>
+      </form>
+  <footer>
+      <p>@Derechos reservados</p>
+      <ul>
+        <li><strong>Email:</strong> fchau@mifarma.com.pe</li>
+        <li><strong>Teléfono:</strong> 123-4567</li>
+        <li><strong>dirección:</strong> Av. Html 123 int. 456</li>
+      </ul>
+  </footer>
+
+  </body>
+</html>

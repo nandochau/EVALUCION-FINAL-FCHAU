@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <polygon transform="rotate(-17.963804244995117 288.8518981933596,175.00000000000006) " stroke-width="5" stroke="#000000" points="391.6424865722656,175 313.1174621582031,283.0804138183594 186.06130981445312,241.79736328125 186.06130981445312,108.20263671875 313.1174621582031,66.91958618164062 391.6424865722656,175 " strokeWidth="5" strokecolor="#000000" fill="#0000ff" edge="133.594744" orient="x" sides="5" shape="regularPoly" id="svg_7" cy="143" cx="191"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_8" y="181" x="221" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_16" y="158" x="281" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ffffff">FERNANDO CHAU</text>
+  <ellipse ry="53" rx="58" id="svg_20" cy="215" cx="278" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <polygon stroke-width="5" stroke="#000000" points="281,174.73452758789062 290.23187255859375,201.29342651367188 318.34368896484375,201.86630249023438 295.9374694824219,218.85348510742188 304.07965087890625,245.76644897460938 281,229.7061767578125 257.9203186035156,245.76644897460938 266.0625305175781,218.85348510742188 243.65631103515625,201.86630249023438 271.76812744140625,201.29342651367188 281,174.73452758789062 290.23187255859375,201.29342651367188 " strokeWidth="5" strokecolor="#000000" fill="#ffffff" orient="point" r2="15.706191" r="39.265478" point="5" shape="star" id="svg_19" cy="232" cx="493"/>
+ </g>
+</svg>
